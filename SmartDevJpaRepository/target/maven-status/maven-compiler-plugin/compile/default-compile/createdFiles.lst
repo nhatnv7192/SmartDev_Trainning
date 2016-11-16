@@ -1,9 +1,0 @@
-com\entities\ProductDetail.class
-com\entities\Category.class
-com\controllers\Demo.class
-com\entities\OrderDetail.class
-com\entities\Product.class
-com\entities\ProductImages.class
-com\entities\Users.class
-com\jpaRepository\CategoryRepository.class
-com\entities\OrderProduct.class
