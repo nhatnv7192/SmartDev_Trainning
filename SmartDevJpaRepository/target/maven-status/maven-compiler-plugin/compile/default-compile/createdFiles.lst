@@ -1,0 +1,13 @@
+com\jpaRepository\ProductDetailRepository.class
+com\controllers\Demo.class
+com\entities\OrderDetail.class
+com\entities\Product.class
+com\jpaRepository\OrderProductRepository.class
+com\jpaRepository\ProductImagesRepository.class
+com\entities\ProductDetail.class
+com\entities\Category.class
+com\jpaRepository\ProductRepository.class
+com\entities\ProductImages.class
+com\jpaRepository\CategoryRepository.class
+com\entities\OrderProduct.class
+com\jpaRepository\OrderDetailRepository.class
